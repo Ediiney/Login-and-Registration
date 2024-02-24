@@ -10,3 +10,7 @@ version: 1.0.0
 1. Java
 1. Swing
 1. Java JFrame
+
+## Screen
+
+![image](https://github.com/Ediiney/Login-and-Registration/assets/54506695/de9cccf4-9491-4be8-910e-558d06f006e3)
